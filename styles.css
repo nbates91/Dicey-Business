@@ -1,0 +1,12 @@
+.die {
+	background-color: white;
+	height: 50px;
+	width: 50px;
+	float: left;
+	margin: 25px;
+	color: black;
+	text-align: center;
+	display: table;
+	line-height: 50px;
+	font-size: 7em;
+}
